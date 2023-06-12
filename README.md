@@ -42,7 +42,7 @@ If you wish to get in touch with me, you can find me on the following platforms:
 
 - Email: julio.prog124@gmail.com
 
-- LinkedIn: 
+- LinkedIn: https://www.linkedin.com/in/julio-cesar-da-costa-silva-386104273/
 
 Feel free to reach out to me if you have any questions, suggestions, or interesting opportunities to discuss!
 
