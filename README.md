@@ -26,6 +26,8 @@ Here are some of the projects I am currently working on or have contributed to o
 
 - [Project 3]: Development of a chess game in java
 
+- [Project 4]: Workshop using javaFX and JDCB
+
 ## Objectives
 
 My current objectives are:
