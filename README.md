@@ -6,9 +6,15 @@
 
 <br/>
 
-![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=JcDev-124&show_icons=true&theme=tokyonight&hide_border=true&locale=en)
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=JcDev-124&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="GitHub Statistics" style="display: inline-block; margin: 10px;" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JcDev-124&layout=compact&theme=radical&langs_count=6&locale=en" alt="Most Used Languages" style="display: inline-block; margin: 10px;" />
+  </a>
+</div>
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JcDev-124&layout=compact&theme=radical&langs_count=6&locale=en)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
