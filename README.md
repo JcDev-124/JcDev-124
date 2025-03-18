@@ -1,4 +1,4 @@
-### Olá, meu nome é Júlio! 👋  
+### Hello, my name is Júlio! 👋  
 
 <br/>
 
@@ -6,14 +6,14 @@
 
 <br/>
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=JcDev-124&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
+![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=JcDev-124&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
 
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=JcDev-124&layout=compact&theme=radical&langs_count=6&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JcDev-124&layout=compact&theme=radical&langs_count=6&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
 
-### 🚀 Tecnologias que mais uso:
+### 🚀 Technologies I use the most:
 <div style="display: inline_block">    
 <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img align="center" alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
@@ -30,7 +30,7 @@
 </div>
 
 ---
-### 📚 Tecnologias que possuo conhecimentos:
+### 📚 Technologies I have knowledge of:
 <div style="display: inline_block">
 <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -41,7 +41,7 @@
 <div/>
     
 ---
-### 📚 Tecnologias que gostaria de aprender:
+### 📚 Technologies I would like to learn:
 <div style="display: inline_block">
     <img align="center" alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
     <img align="center" alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
@@ -57,7 +57,7 @@
 ---
 
 
-### 📞 Contato:
+### 📞 Contact:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](<mailto:julio.prog124@gmail.com>)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julusdev/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5535998372360)
