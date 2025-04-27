@@ -2,7 +2,13 @@
 
 <br/>
 
-<<<I have a degree in Computer Science and work as a Junior Developer, with strong expertise in Java and Spring Boot, as well as experience with Angular, JavaScript, and SQL and NoSQL databases (PostgreSQL, MySQL, MongoDB). I have hands-on experience with Docker, Artificial Intelligence, and blockchain, along with knowledge of unit testing using JUnit to ensure code quality. My journey includes sharing knowledge through workshops and training sessions, demonstrating my commitment to continuous learning and innovation. >>>  
+<<<I hold a degree in Computer Science and am seeking my first opportunity in the technology sector, with a focus on development, artificial intelligence, and innovative solutions that create meaningful impact. I am fully available to work in different models (on-site, remote, or hybrid) and am committed to continuous learning, both technically and interpersonally.
+
+I have hands-on experience with Java and Spring Boot, as well as knowledge of AngularJS, TypeScript, and relational and non-relational databases (PostgreSQL, MySQL, MongoDB). I'm also familiar with tools such as Docker, fundamentals of blockchain, artificial intelligence, and unit testing.
+
+My journey includes academic projects, freelance work, short courses, and training sessions, where I had the opportunity to share knowledge. I value continuous learning, problem-solving, and teamwork.
+
+Before transitioning into tech, I worked for over 5 years in the retail sector, where I developed essential interpersonal skills such as clear communication, customer service empathy, proactive problem-solving, a strong focus on operational excellence, and adaptability in dynamic environments.>>>  
 
 <br/>
 
